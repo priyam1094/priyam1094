@@ -1,19 +1,4 @@
-# Hi 👋 I'm Dr. Priya Alagu Dharshini
-
-## Data Scientist | Machine Learning Engineer | Generative AI Engineer
-
-Ph.D. in Computer Science specializing in:
-
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Agentic AI
-- Large Language Models
-- Retrieval Augmented Generation
-- Demand Forecasting
-
----
-# 👋 I'm Dr. Priya Alagu Dharshini
+# 👋 Hi, I'm Dr. Priya Alagu Dharshini
 
 ## Data Scientist | Machine Learning Engineer | Generative AI Engineer
 
@@ -26,8 +11,22 @@ Ph.D. in Computer Science specializing in:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge)
 
-### Technical Skills
-## Technical Skills
+---
+
+## 👩‍💻 About Me
+
+Ph.D. in Computer Science with expertise in:
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Agentic AI
+- Large Language Models
+- Retrieval-Augmented Generation
+- Demand Forecasting
+
+---
+
+## 🛠 Technical Skills
 
 ### Machine Learning & Forecasting
 - XGBoost
@@ -37,51 +36,35 @@ Ph.D. in Computer Science specializing in:
 - Pandas
 - NumPy
 
-### Generative AI
+### Generative AI & RAG
 - LLMs
 - RAG
 - Prompt Engineering
 - Embeddings
 - Retrieval Strategies
-- Reranking
-
-### Agentic AI
-- LangChain
-- LangGraph
-- StateGraph
-- Agentic RAG
-- MCP
-
-### Cloud & MLOps
-- AWS SageMaker
-- AWS Bedrock
-- AWS Lambda
-- AWS S3
-- MLflow
-- LangSmith
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### Police Post Logs Analytics
-https://github.com/priyam1094/Police-Post-Logs-
+🔗 https://github.com/priyam1094/Police-Post-Logs-
 
 ### Agricultural Analytics Dashboard
-https://github.com/priyam1094/agri_new
+🔗 https://github.com/priyam1094/agri_new
 
 ### Employee Attrition Prediction
-https://github.com/priyam1094/employee_details
+🔗 https://github.com/priyam1094/employee_details
 
-### Disease Prediction System
-https://github.com/priyam1094/disease_prediction_01
+### Multiple Disease Prediction
+🔗 https://github.com/priyam1094/disease_prediction_01
 
 ### Public Policy Insight & Impact Analyzer
-https://github.com/priyam1094/ppiia-streamlit
+🔗 https://github.com/priyam1094/ppiia-streamlit
 
 ---
 
-## Publications
+## 📚 Publications
 
 - Social Media Trustable Reviews Based Sales Forecasting
 - CoSFGCN
@@ -90,10 +73,26 @@ https://github.com/priyam1094/ppiia-streamlit
 
 ---
 
-## Contact
+## 🎓 Certifications
 
-Email:
-priya1094m@gmail.com
+- Master Data Science Program
+- GUVI | HCL | IITM Incubated Company
 
-GitHub:
-https://github.com/priyam1094
+---
+
+## 🎓 Education
+
+- Ph.D., Computer Science
+- M.Phil., Computer Science
+- M.Sc., Computer Science
+- B.Sc., Computer Science
+
+---
+
+## 📫 Contact
+
+📧 priya1094m@gmail.com
+
+🐙 https://github.com/priyam1094
+
+💼 Your LinkedIn Profile
