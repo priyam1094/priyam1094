@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi 👋 I'm Dr. Priya Alagu Dharshini
 
-<!--
-**priyam1094/priyam1094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Scientist | Machine Learning Engineer | Generative AI Engineer
 
-Here are some ideas to get you started:
+Ph.D. in Computer Science specializing in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Agentic AI
+- Large Language Models
+- Retrieval Augmented Generation
+- Demand Forecasting
+
+---
+
+## Technical Skills
+
+### Machine Learning & Forecasting
+- XGBoost
+- Random Forest
+- LSTM
+- Scikit-learn
+- Pandas
+- NumPy
+
+### Generative AI
+- LLMs
+- RAG
+- Prompt Engineering
+- Embeddings
+- Retrieval Strategies
+- Reranking
+
+### Agentic AI
+- LangChain
+- LangGraph
+- StateGraph
+- Agentic RAG
+- MCP
+
+### Cloud & MLOps
+- AWS SageMaker
+- AWS Bedrock
+- AWS Lambda
+- AWS S3
+- MLflow
+- LangSmith
+
+---
+
+## Featured Projects
+
+### Police Post Logs Analytics
+https://github.com/priyam1094/Police-Post-Logs-
+
+### Agricultural Analytics Dashboard
+https://github.com/priyam1094/agri_new
+
+### Employee Attrition Prediction
+https://github.com/priyam1094/employee_details
+
+### Disease Prediction System
+https://github.com/priyam1094/disease_prediction_01
+
+### Public Policy Insight & Impact Analyzer
+https://github.com/priyam1094/ppiia-streamlit
+
+---
+
+## Publications
+
+- Social Media Trustable Reviews Based Sales Forecasting
+- CoSFGCN
+- Comparative Study of Product Sales Forecasting
+- Survey of Machine Learning and Deep Learning Approaches
+
+---
+
+## Contact
+
+Email:
+priya1094m@gmail.com
+
+GitHub:
+https://github.com/priyam1094
