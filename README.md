@@ -9,7 +9,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-darkgreen?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge) 
 
 ---
 
