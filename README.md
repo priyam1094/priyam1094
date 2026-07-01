@@ -11,9 +11,9 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyam1094&show_icons=true&theme=transparent&cache_seconds=86400)
+## 📈 Contribution Graph
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyam1094&layout=compact&theme=transparent&cache_seconds=86400)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyam1094&theme=github)
 ---
 
 ## 👩‍💻 About Me
