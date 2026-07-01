@@ -13,7 +13,20 @@ Ph.D. in Computer Science specializing in:
 - Demand Forecasting
 
 ---
+# 👋 I'm Dr. Priya Alagu Dharshini
 
+## Data Scientist | Machine Learning Engineer | Generative AI Engineer
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-orange?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-darkgreen?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge)
+
+### Technical Skills
 ## Technical Skills
 
 ### Machine Learning & Forecasting
